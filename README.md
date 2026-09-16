@@ -7,13 +7,13 @@
 Cubre longevidad y prevención de enfermedades, accidentes y primeros auxilios, ahorro y finanzas personales, prevención de estafas y límites legales, respaldo durante el desempleo, riesgos de emprender, creación de plataformas y cumplimiento normativo, relaciones y crianza, viajes al extranjero y habilidades.
 498 recomendaciones; cada una explica qué cuesta, qué devuelve y qué tan sólida es la evidencia. Las fuentes se limitan a artículos académicos y documentos oficiales.
 
-[![Búsqueda en línea](https://img.shields.io/badge/búsqueda%20en%20línea-abrir%20aquí-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
+[![Búsqueda en línea](https://img.shields.io/badge/búsqueda%20en%20línea-abrir%20aquí-3451b2?style=flat-square)](https://vivirmejor.mati.ad/)
 [![Recomendaciones](https://img.shields.io/badge/recomendaciones-498-18794e?style=flat-square)](#índice)
 [![Niveles de evidencia](https://img.shields.io/badge/niveles%20de%20evidencia-A%20323%20·%20B%20126%20·%20C%2049-915930?style=flat-square)](#niveles-de-evidencia)
 [![Fuentes primarias](https://img.shields.io/badge/fuentes%20primarias-891%20enlaces-565a5f?style=flat-square)](docs/核实记录/)
 [![Licencia](https://img.shields.io/badge/licencia-Unlicense-565a5f?style=flat-square)](LICENSE)
 
-**[Abrir la búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/)** · [Índice](#índice) · [Glosario](#entender-los-términos-numéricos) · [Registro de verificación](docs/核实记录/) · [¿Conviene casarse? (texto largo)](docs/结婚划不划算.md) · [Lista de equipamiento de emergencia doméstica (texto largo)](docs/家庭应急装备清单.md) · [¿Conviene detenerse cuando le pasa algo a un desconocido? (texto largo)](docs/遇到陌生人出事该不该停.md) · [Qué permisos necesita una plataforma (texto largo)](docs/做平台要办哪些证.md)
+**[Abrir la búsqueda en línea](https://vivirmejor.mati.ad/)** · [Índice](#índice) · [Glosario](#entender-los-términos-numéricos) · [Registro de verificación](docs/核实记录/) · [¿Conviene casarse? (texto largo)](docs/结婚划不划算.md) · [Lista de equipamiento de emergencia doméstica (texto largo)](docs/家庭应急装备清单.md) · [¿Conviene detenerse cuando le pasa algo a un desconocido? (texto largo)](docs/遇到陌生人出事该不该停.md) · [Qué permisos necesita una plataforma (texto largo)](docs/做平台要办哪些证.md)
 
 </div>
 
@@ -59,7 +59,7 @@ Cubre longevidad y prevención de enfermedades, accidentes y primeros auxilios, 
 
 ## Cómo leerlo
 
-- **Si querés filtrar por condiciones**: abrí la [búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/). Permite combinar palabras clave, capítulos, nivel de evidencia y tres dimensiones de costo: si requiere dinero, cuánto tiempo requiere y si requiere perseverancia. Los datos se leen directamente de los textos de `book/`; al modificar el texto también se modifica la búsqueda.
+- **Si querés filtrar por condiciones**: abrí la [búsqueda en línea](https://vivirmejor.mati.ad/). Permite combinar palabras clave, capítulos, nivel de evidencia y tres dimensiones de costo: si requiere dinero, cuánto tiempo requiere y si requiere perseverancia. Los datos se leen directamente de los textos de `book/`; al modificar el texto también se modifica la búsqueda.
 - **Si querés leer en orden**: dentro de cada capítulo, las recomendaciones están ordenadas de mayor a menor relación calidad-precio. Podés empezar por las primeras.
 - **Si no entendés la cadena de números**: cada recomendación tiene una línea «En palabras simples» que convierte las razones de riesgo y los intervalos de confianza de la sección «Beneficio» en expresiones cotidianas como «la probabilidad de morir durante el mismo período es aproximadamente un 20 % menor» o «cuántos días de detención y qué multa puede haber». Solo con esa línea alcanza para decidir; la sección «Beneficio» conserva todos los números y los intervalos de confianza originales para que puedas verificarlos.
 - **Si solo querés ver las conclusiones más sólidas**: marcá el nivel de evidencia A en la búsqueda. Quedan las 323 recomendaciones con números concretos provenientes de metaanálisis o grandes ensayos.
@@ -213,4 +213,4 @@ El `index.html` de la raíz del repositorio es la página de búsqueda en línea
 
 ## Texto principal
 
-El texto principal está dividido por capítulos en 30 archivos dentro de [book/](book/); hacé clic en los capítulos del índice para abrirlos. La división fue necesaria porque el archivo único ya superaba el límite de 512 KB del Markdown renderizado por GitHub y los capítulos posteriores no aparecían. La [búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/) lee y combina esos archivos, por lo que el uso no cambia.
+El texto principal está dividido por capítulos en 30 archivos dentro de [book/](book/); hacé clic en los capítulos del índice para abrirlos. La división fue necesaria porque el archivo único ya superaba el límite de 512 KB del Markdown renderizado por GitHub y los capítulos posteriores no aparecían. La [búsqueda en línea](https://vivirmejor.mati.ad/) lee y combina esos archivos, por lo que el uso no cambia.
