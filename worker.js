@@ -12,6 +12,14 @@ function publicPath(pathname) {
   return null;
 }
 
+function contentType(file) {
+  if (file === 'index.html') return 'text/html; charset=UTF-8';
+  if (file === 'og.png') return 'image/png';
+  if (file === 'sitemap.xml') return 'application/xml; charset=UTF-8';
+  if (file.endsWith('.md')) return 'text/markdown; charset=UTF-8';
+  return 'text/plain; charset=UTF-8';
+}
+
 async function handle(request) {
   if (request.method !== 'GET' && request.method !== 'HEAD') {
     return new Response('Method Not Allowed', {
@@ -21,10 +29,16 @@ async function handle(request) {
   }
 
   const url = new URL(request.url);
-  const file = publicPath(decodeURIComponent(url.pathname));
+  let decodedPath;
+  try {
+    decodedPath = decodeURIComponent(url.pathname);
+  } catch {
+    return new Response('Bad Request', { status: 400 });
+  }
+  const file = publicPath(decodedPath);
   if (!file) return new Response('Not Found', { status: 404 });
 
-  const upstream = await fetch(ORIGIN + file, {
+  const upstream = await fetch(ORIGIN + encodeURI(file), {
     method: request.method,
     headers: { Accept: '*/*' },
     redirect: 'manual',
@@ -32,6 +46,7 @@ async function handle(request) {
   if (!upstream.ok) return new Response('Not Found', { status: upstream.status });
 
   const headers = new Headers(upstream.headers);
+  headers.set('Content-Type', contentType(file));
   headers.set('Cache-Control', CACHE_CONTROL);
   headers.set('X-Content-Type-Options', 'nosniff');
   headers.set(
