@@ -1,216 +1,216 @@
 <div align="center">
 
-<img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
+<img src="og.png" alt="Guía de vida con alta relación calidad-precio — cambia la menor cantidad de dinero, tiempo y energía por la mayor cantidad de años de vida, dinero y libertad personal" width="820">
 
-# 高性价比人生指南
+# Guía de vida con alta relación calidad-precio
 
-覆盖长寿与防病、意外与急救、省钱与理财、防骗与法律红线、失业兜底、创业风险、做平台与合规、恋爱婚育、出国与技能。<br>
-498 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件。
+Cubre longevidad y prevención de enfermedades, accidentes y primeros auxilios, ahorro y finanzas personales, prevención de estafas y límites legales, respaldo durante el desempleo, riesgos de emprender, creación de plataformas y cumplimiento normativo, relaciones y crianza, viajes al extranjero y habilidades.
+498 recomendaciones; cada una explica qué cuesta, qué devuelve y qué tan sólida es la evidencia. Las fuentes se limitan a artículos académicos y documentos oficiales.
 
-[![在线检索](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
-[![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-498%20%E6%9D%A1-18794e?style=flat-square)](#目录)
-[![证据分级](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20323%20%C2%B7%20B%20126%20%C2%B7%20C%2049-915930?style=flat-square)](#证据分级)
-[![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-891%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
-[![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-Unlicense-565a5f?style=flat-square)](LICENSE)
+[![Búsqueda en línea](https://img.shields.io/badge/búsqueda%20en%20línea-abrir%20aquí-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
+[![Recomendaciones](https://img.shields.io/badge/recomendaciones-498-18794e?style=flat-square)](#índice)
+[![Niveles de evidencia](https://img.shields.io/badge/niveles%20de%20evidencia-A%20323%20·%20B%20126%20·%20C%2049-915930?style=flat-square)](#niveles-de-evidencia)
+[![Fuentes primarias](https://img.shields.io/badge/fuentes%20primarias-891%20enlaces-565a5f?style=flat-square)](docs/核实记录/)
+[![Licencia](https://img.shields.io/badge/licencia-Unlicense-565a5f?style=flat-square)](LICENSE)
 
-**[打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/)** · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [做平台要办哪些证（长文）](docs/做平台要办哪些证.md)
+**[Abrir la búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/)** · [Índice](#índice) · [Glosario](#entender-los-términos-numéricos) · [Registro de verificación](docs/核实记录/) · [¿Conviene casarse? (texto largo)](docs/结婚划不划算.md) · [Lista de equipamiento de emergencia doméstica (texto largo)](docs/家庭应急装备清单.md) · [¿Conviene detenerse cuando le pasa algo a un desconocido? (texto largo)](docs/遇到陌生人出事该不该停.md) · [Qué permisos necesita una plataforma (texto largo)](docs/做平台要办哪些证.md)
 
 </div>
 
 ---
 
-## 这本书想回答的问题
+## Qué preguntas intenta responder este libro
 
-| 问题 | 去哪看 |
+| Pregunta | Dónde buscar |
 | --- | --- |
-| 几乎不花钱，就能明显降低早死概率的事有哪些？ | [1. 不要早死](book/01-不要早死.md) |
-| 抽烟、喝酒、久坐、熬夜到底折寿多少？ | [2. 不要慢慢死](book/02-不要慢慢死.md) |
-| 每天精力不够用、总被打断，怎么改？ | [3. 不要浪费精力](book/03-不要浪费精力.md) |
-| 时间都花哪去了，怎么少做无收益的事？ | [4. 不要浪费时间](book/04-不要浪费时间.md) |
-| 攒下的钱该怎么放，才不被利息、费率和骗局吃掉？ | [5. 不要浪费钱](book/05-不要浪费钱.md) |
-| 哪些保健品、体检套餐、智商税可以直接不买？ | [6. 反面清单](book/06-反面清单.md) |
-| 失业了、被欠薪了、身上没钱了，能领什么、去哪求助？ | [7. 没钱的时候怎么活](book/07-没钱的时候怎么活.md) |
-| 彩礼、婚前房产、恋爱期间的大额转账，法律上算谁的？ | [8. 法律与财产安全](book/08-别把自己搭进去.md) |
-| 被人报案指控、被捏造事实举报，第一步做什么，事后能追究和赔偿吗？ | [8. 法律与财产安全](book/08-别把自己搭进去.md) |
-| 哪些「兼职」和顺手的小事会让普通人变成刑事被告？ | [9. 普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md) |
-| 追人该广撒网还是死磕一个，异地恋能不能成，领证要带什么？ | [10. 恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md) |
-| 写哪些代码、接哪些单会被判刑？ | [11. 程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md) |
-| 借钱开店、开公司之前最该先想清楚什么？ | [12. 创业与做生意](book/12-创业与做生意.md) |
-| 有人倒地没了呼吸、大出血、火灾、迷路，先做什么？ | [13. 紧急情况：先做什么](book/13-紧急情况.md) |
-| 账号被盗、手机丢了，第一步做什么？ | [14. 账号与信息安全](book/14-账号与信息安全.md) |
-| 押金被扣、房东赶人、长租公寓暴雷怎么办？ | [15. 租房与买房](book/15-租房与买房.md) |
-| 确诊慢性病之后，长期该怎么管、怎么少花钱？ | [16. 得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md) |
-| 老人的监护、遗嘱和钱该怎么提前安排？ | [17. 家里有老人](book/17-家里有老人.md) |
-| 生孩子能领什么、要占掉多少时间和钱？ | [18. 养孩子划不划算](book/18-养孩子划不划算.md) |
-| 加班费、年休假该怎么算，被裁该拿多少补偿，上班受了伤怎么认定和拿钱？ | [19. 在职、离职和工伤](book/19-在职离职和工伤.md) |
-| 孩子刚出生，最要紧的几件事是什么？ | [20. 刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md) |
-| 哪些国家现在别去，出事了使领馆管到哪一步？ | [21. 出国、旅行与境外安全](book/21-出国旅行与境外安全.md) |
-| 去 KTV、网吧、密室怎么不踩坑，压力大时做什么最有用？ | [22. 怎么放松：娱乐场所和减压](book/22-怎么放松.md) |
-| 学电焊、学英语、考证，哪些真的回本？ | [23. 学什么技能划算](book/23-学什么技能划算.md) |
-| 同一个病在社区看和在三级医院看，差多少钱？ | [24. 看病：怎么少花钱少走弯路](book/24-看病.md) |
-| 伤得很重跑到医院，是去挂号排队还是找急诊分诊台？治完要不要做伤残鉴定、办残疾人证？ | [24. 看病：怎么少花钱少走弯路](book/24-看病.md) |
-| 家里人走了，当时先做什么、哪些钱能取回来、哪些费用可以不交？ | [25. 人走了以后要办什么](book/25-人走了以后要办什么.md) |
-| 做个网站或平台收钱，要办哪些证、服务器放哪？ | [26. 做一个网站或平台](book/26-做一个网站或平台.md) |
-| 怀孕了、要生了，什么时候做什么，出院前要办哪些证？ | [27. 怀孕和生产](book/27-怀孕和生产.md) |
-| 想减肥、想变好看，哪些做法会把身体搞坏？ | [28. 别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md) |
-| 亲人走了、被裁了、拿到重病诊断，头几个月最要紧的是什么？ | [29. 遭遇重大打击之后](book/29-遭遇重大打击之后.md) |
-| 孩子上学以后，哪些身体和心理的事不能等到考完再说？ | [30. 上学以后的孩子](book/30-上学以后的孩子.md) |
-| 十八岁之后除了读书和打工还有哪几条路，各自的门槛是什么？ | [31. 十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md) |
+| ¿Qué cosas, con un costo casi nulo, reducen de forma apreciable la probabilidad de morir antes de tiempo? | [1. No mueras antes de tiempo](book/01-不要早死.md) |
+| ¿Cuánto acortan la vida fumar, beber, estar sentado y dormir poco? | [2. No mueras lentamente](book/02-不要慢慢死.md) |
+| ¿Cómo cambio el hecho de no tener suficiente energía y sufrir interrupciones constantes? | [3. No desperdicies energía](book/03-不要浪费精力.md) |
+| ¿En qué se va todo el tiempo y cómo hago menos cosas sin beneficio? | [4. No desperdicies tiempo](book/04-不要浪费时间.md) |
+| ¿Cómo guardo el dinero para que no se lo coman los intereses, las comisiones y las estafas? | [5. No desperdicies dinero](book/05-不要浪费钱.md) |
+| ¿Qué suplementos, paquetes de chequeos y «impuestos a la inteligencia» puedo dejar de comprar directamente? | [6. Lista de lo que no conviene](book/06-反面清单.md) |
+| Si estoy desempleado, no me pagan o me quedé sin dinero, ¿qué puedo cobrar y dónde puedo pedir ayuda? | [7. Cómo vivir cuando no hay dinero](book/07-没钱的时候怎么活.md) |
+| ¿A quién pertenecen legalmente la dote matrimonial, los bienes anteriores al matrimonio y las transferencias grandes durante el noviazgo? | [8. Seguridad legal y patrimonial](book/08-别把自己搭进去.md) |
+| Si alguien me denuncia, me acusa o inventa hechos sobre mí, ¿qué hago primero y después puedo exigir responsabilidades o una indemnización? | [8. Seguridad legal y patrimonial](book/08-别把自己搭进去.md) |
+| ¿Qué «trabajos ocasionales» y pequeños favores pueden convertir a una persona común en acusada penal? | [9. Límites legales que una persona común puede cruzar fácilmente](book/09-普通人容易踩的法律红线.md) |
+| ¿Conviene conocer a muchas personas o insistir con una sola, puede funcionar una relación a distancia y qué hay que llevar para registrar el matrimonio? | [10. ¿Conviene tener una relación y casarse?](book/10-恋爱和结婚划不划算.md) |
+| ¿Qué código escribir y qué trabajos aceptar pueden terminar en una condena? | [11. Límites legales que programadores y técnicos pueden cruzar fácilmente](book/11-程序员和技术人容易踩的红线.md) |
+| Antes de pedir dinero prestado para abrir un negocio o una empresa, ¿qué es lo más importante que tengo que pensar? | [12. Emprender y hacer negocios](book/12-创业与做生意.md) |
+| Si alguien cae al suelo y no respira, hay una hemorragia grave, un incendio o me pierdo, ¿qué hago primero? | [13. Emergencias: qué hacer primero](book/13-紧急情况.md) |
+| Si me roban una cuenta o pierdo el celular, ¿qué hago primero? | [14. Seguridad de cuentas e información](book/14-账号与信息安全.md) |
+| ¿Qué hago si retienen mi depósito, el propietario me echa o quiebra una empresa de alquiler a largo plazo? | [15. Alquilar y comprar vivienda](book/15-租房与买房.md) |
+| Después de recibir un diagnóstico de enfermedad crónica, ¿cómo la manejo a largo plazo y gasto menos? | [16. Cómo vivir después de recibir un diagnóstico de enfermedad crónica](book/16-得了慢性病之后怎么活.md) |
+| ¿Cómo organizar con anticipación la tutela, el testamento y el dinero de una persona mayor? | [17. Cuando hay una persona mayor en casa](book/17-家里有老人.md) |
+| ¿Qué se puede cobrar al tener un hijo y cuánto tiempo y dinero consume? | [18. ¿Conviene criar hijos?](book/18-养孩子划不划算.md) |
+| ¿Cómo se calculan las horas extra y las vacaciones, cuánto corresponde al ser despedido y cómo se reconoce y se cobra una lesión laboral? | [19. Durante y después del empleo, y accidentes laborales](book/19-在职离职和工伤.md) |
+| Si el bebé acaba de nacer, ¿cuáles son las cosas más importantes? | [20. Cómo cuidar a un recién nacido](book/20-刚出生的孩子怎么带.md) |
+| ¿A qué países conviene no viajar ahora y hasta dónde puede ayudar un consulado si pasa algo? | [21. Viajes al extranjero y seguridad fuera del país](book/21-出国旅行与境外安全.md) |
+| ¿Cómo evitar problemas en un karaoke, un cibercafé o una sala de escape, y qué es más útil cuando hay mucho estrés? | [22. Cómo relajarse: lugares de ocio y reducción del estrés](book/22-怎么放松.md) |
+| ¿Qué cosas realmente permiten recuperar la inversión: aprender soldadura, estudiar inglés o sacar una certificación? | [23. Qué habilidades conviene aprender](book/23-学什么技能划算.md) |
+| Para una misma enfermedad, ¿cuánto más cuesta atenderse en un hospital terciario que en un centro comunitario? | [24. Cómo gastar menos y dar menos vueltas al recibir atención médica](book/24-看病.md) |
+| Si llego al hospital con una lesión grave, ¿tengo que sacar turno y hacer fila o ir al área de clasificación de urgencias? Después del tratamiento, ¿conviene hacer una evaluación de discapacidad y tramitar el certificado correspondiente? | [24. Cómo gastar menos y dar menos vueltas al recibir atención médica](book/24-看病.md) |
+| Si muere alguien de la familia, ¿qué hago primero, qué dinero puedo recuperar y qué gastos puedo evitar? | [25. Qué hacer después de una muerte](book/25-人走了以后要办什么.md) |
+| Si creo un sitio web o una plataforma que cobra dinero, ¿qué permisos necesito y dónde pongo el servidor? | [26. Crear un sitio web o una plataforma](book/26-做一个网站或平台.md) |
+| Si estoy embarazada o voy a dar a luz, ¿qué hago en cada momento y qué documentos tengo que tramitar antes del alta? | [27. Embarazo y parto](book/27-怀孕和生产.md) |
+| Si quiero adelgazar o mejorar mi aspecto, ¿qué métodos pueden dañar mi cuerpo? | [28. No dañes tu cuerpo por tu apariencia](book/28-别为了外形把身体搞坏.md) |
+| Si murió un familiar, me despidieron o recibí un diagnóstico grave, ¿qué es más importante durante los primeros meses? | [29. Después de un golpe importante](book/29-遭遇重大打击之后.md) |
+| Después de que un niño empieza la escuela, ¿qué problemas físicos y psicológicos no deberían esperar hasta que terminen los exámenes? | [30. Niños en edad escolar](book/30-上学以后的孩子.md) |
+| Después de los 18 años, además de estudiar y trabajar, ¿qué caminos existen y cuáles son sus requisitos? | [31. Qué caminos existen después de los 18 años](book/31-十八岁之后有哪几条路.md) |
 
-## 怎么读
+## Cómo leerlo
 
-- **想按条件筛**：打开[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)，可以按关键词、章节、证据等级，以及「花不花钱、花多少时间、要不要毅力」三个成本维度组合筛选。数据直接读 book/ 下的正文，改正文即改检索页。
-- **想按顺序读**：每节内的条目按性价比从高到低排列，从每节前几条开始看就行。
-- **看不懂那串数字**：每条都有一行「说人话」，把「收益」栏里的风险比、置信区间翻成「同期死亡的概率低约两成」「拘留几日、罚多少钱」这类日常说法，只用原文已有的事实，不引入新数字。只看这一行就够做决定；「收益」栏保留全部原始数字和置信区间，供你自己核。
-- **只想看结论最硬的**：在检索页里勾选证据等级 A，只留下有具体数字、来自荟萃分析或大型试验的 323 条。
-- **只想看最值得做的**：勾选性价比「极高」，得到 85 条既不花钱、不花时间、不需要毅力，收益又落在最大一档的条目。再叠加一个「换回什么」，就是该口径下的优先清单。
-- **看到「不要」开头的节标题不用紧张**：节标题说的是这一节想防住的结果（不要早死、不要浪费时间），不是说底下每条都是禁令。条目标题才是要做的动作，一律动词开头，自己带着「做什么」或「别做什么」——同一节里两种都有，比如第 4 节既有「把『打算做』写成『几点、在哪、遇到什么就做什么』」，也有「不看电视和滚动新闻」。按条目标题读，不用往节标题的语气上套。
+- **Si querés filtrar por condiciones**: abrí la [búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/). Permite combinar palabras clave, capítulos, nivel de evidencia y tres dimensiones de costo: si requiere dinero, cuánto tiempo requiere y si requiere perseverancia. Los datos se leen directamente de los textos de `book/`; al modificar el texto también se modifica la búsqueda.
+- **Si querés leer en orden**: dentro de cada capítulo, las recomendaciones están ordenadas de mayor a menor relación calidad-precio. Podés empezar por las primeras.
+- **Si no entendés la cadena de números**: cada recomendación tiene una línea «En palabras simples» que convierte las razones de riesgo y los intervalos de confianza de la sección «Beneficio» en expresiones cotidianas como «la probabilidad de morir durante el mismo período es aproximadamente un 20 % menor» o «cuántos días de detención y qué multa puede haber». Solo con esa línea alcanza para decidir; la sección «Beneficio» conserva todos los números y los intervalos de confianza originales para que puedas verificarlos.
+- **Si solo querés ver las conclusiones más sólidas**: marcá el nivel de evidencia A en la búsqueda. Quedan las 323 recomendaciones con números concretos provenientes de metaanálisis o grandes ensayos.
+- **Si solo querés ver lo que más conviene hacer**: marcá «relación calidad-precio: muy alta». Así obtenés 85 recomendaciones que no cuestan dinero, tiempo ni perseverancia y cuyo beneficio pertenece al nivel máximo. Si además elegís qué querés recuperar, obtenés la lista prioritaria de ese criterio.
+- **Si los títulos de los capítulos empiezan con «no», no te preocupes**: el título indica el resultado que el capítulo intenta evitar —no morir antes de tiempo, no desperdiciar tiempo—, no que todo lo que sigue sean prohibiciones. El título de cada recomendación indica la acción y empieza con un verbo; puede decir qué hacer o qué no hacer. En un mismo capítulo hay ambas clases, por ejemplo «Convertí “voy a hacerlo” en “lo hago a tal hora, en tal lugar y cuando ocurra tal cosa”» y «No mires televisión ni noticias en desplazamiento continuo». Leé los títulos de las recomendaciones y no les apliques el tono del título del capítulo.
 
-每条建议长这样：
+Cada recomendación tiene este formato:
 
 ```markdown
-### 5. 把家里的食盐换成低钠盐（钾盐）
-- 成本：每袋贵几元
-- 说人话：两万人的随机试验里，把家里的盐换成低钠盐的人，五年内死亡的概率低约 12%，中风低约 14%。这是随机分组做出来的结果，比一般的观察数据更可信。
-- 收益：脑卒中降 14%，心血管事件降 13%，总死亡率降 12%
-- 证据等级：A
-- 来源：Neal B, et al. (2021). NEJM. https://doi.org/10.1056/NEJMoa2105675
-- 备注：争议。肾功能不全、正在吃保钾利尿剂的人不要用。另有一项覆盖 181 个国家的生态学研究发现钠摄入越高的国家预期寿命反而越长、总死亡率反而越低（β=−131 例/克每日钠摄入，R²=0.60，P<0.001），作者据此反对把钠当作缩短寿命的元凶；但生态学研究比的是国家而不是人，富国吃盐多也活得久，无法排除经济水平这个混杂，证据等级低于上面那项随机对照试验。来源：Messerli FH, Hofstetter L, Syrogiannouli L, et al. (2021). Sodium intake, life expectancy, and all-cause mortality. European Heart Journal, 42(21), 2103-2112. <https://doi.org/10.1093/eurheartj/ehaa947>
+### 5. Cambiá la sal de mesa por sal baja en sodio (sal de potasio)
+- Costo: unos yuanes más por paquete
+- En palabras simples: en un ensayo aleatorizado de 20.000 personas, quienes cambiaron la sal de su casa por sal baja en sodio tuvieron aproximadamente un 12 % menos de probabilidad de morir y un 14 % menos de sufrir un accidente cerebrovascular durante cinco años. El resultado proviene de una asignación aleatoria y es más confiable que los datos observacionales habituales.
+- Beneficio: accidente cerebrovascular −14 %, eventos cardiovasculares −13 %, mortalidad por todas las causas −12 %
+- Nivel de evidencia: A
+- Fuente: Neal B, et al. (2021). NEJM. https://doi.org/10.1056/NEJMoa2105675
+- Notas: En discusión. No usar en caso de insuficiencia renal o si se toman diuréticos ahorradores de potasio. Otro estudio ecológico que abarcó 181 países encontró que los países con mayor consumo de sodio tenían una esperanza de vida más larga y una mortalidad por todas las causas más baja (β = −131 casos por gramo de sodio diario, R² = 0,60, P < 0,001), por lo que sus autores se oponen a considerar el sodio como causa de una vida más corta. Sin embargo, el estudio ecológico compara países y no personas: los países ricos pueden consumir más sal y vivir más, de modo que no se puede descartar el nivel económico como factor de confusión. Su evidencia es inferior a la del ensayo controlado aleatorizado anterior. Fuente: Messerli FH, Hofstetter L, Syrogiannouli L, et al. (2021). Sodium intake, life expectancy, and all-cause mortality. European Heart Journal, 42(21), 2103-2112. <https://doi.org/10.1093/eurheartj/ehaa947>
 ```
 
-## 四种资源
+## Cuatro recursos
 
-本指南优化的不只是寿命，而是四种资源：
+Esta guía no busca optimizar solamente la longevidad, sino cuatro recursos:
 
-- **寿命**：活得更久，少死于本来可以避免的事
-- **时间与精力**：活着的时间不被无收益的事占用，每天的注意力和体力少被无谓消耗
-- **金钱**：少花冤枉钱，把钱花在收益确定的地方
-- **人身自由**：不因为不知道一条红线，把自己送进拘留所或者看守所
+- **Longevidad**: vivir más y morir menos por causas que se podían evitar
+- **Tiempo y energía**: que el tiempo de vida no sea ocupado por cosas sin beneficio y que la atención y la fuerza física se desperdicien menos
+- **Dinero**: gastar menos en cosas inútiles y usar el dinero donde el beneficio sea más seguro
+- **Libertad personal**: no terminar en un centro de detención o prisión por desconocer un límite legal
 
-每一条建议都回答两个问题：花掉什么（钱/时间/精力/毅力），换回什么（总死亡率变化 / 特定死因下降 / 时间与精力节省 / 金钱节省 / 保障与人身自由）。条目按性价比排序，不按类别排序：成本接近零、收益大的放最前面。
+Cada recomendación responde dos preguntas: qué cuesta —dinero, tiempo, energía o perseverancia— y qué devuelve —cambio en la mortalidad por todas las causas, reducción de una causa específica de muerte, ahorro de tiempo y energía, ahorro de dinero, protección o libertad personal—. Las recomendaciones se ordenan por relación calidad-precio, no por categoría: las de costo casi nulo y gran beneficio aparecen primero.
 
-**收益算在谁头上，是分档的。** 按「这份好处将来回到你身上的期望」从高到低：① **你自己**；② **配偶和直系亲属**（父母、子女、祖父母外祖父母、孙子女外孙子女）；③ **朋友、同事和其他亲属**——互惠关系，帮出去的将来可能回来；④ **陌生人**——最低一档，但不是零：回报的概率小，而且你不了解对方性格，还有被讹、被反咬、被报复的一面。不同档不合并计算，写到第 ④ 档时好处和风险一起写。
+**El beneficio se calcula según quién lo recibe, en distintos niveles.** De mayor a menor expectativa de que vuelva a beneficiarte: ① **vos mismo**; ② **tu pareja y tus familiares directos** —padres, hijos, abuelos y nietos—; ③ **amigos, compañeros de trabajo y otros familiares**, porque la reciprocidad puede hacer que la ayuda vuelva; ④ **desconocidos**, el nivel más bajo, aunque no es cero: la probabilidad de recibir algo a cambio es pequeña, no conocés el carácter de la otra persona y también existe el riesgo de que te reclame dinero, te acuse o tome represalias. Los niveles no se suman; cuando una recomendación llega al nivel ④, explica juntos los beneficios y los riesgos.
 
-急救那一节照这个读：中国 38,227 例院外心脏骤停里 79.2% 发生在家里，学按压首先是为了按在自家人身上；「看到有人溺水自己不下水」「撞见斗殴别上手拉架」这类规则本身就是自保规则，防的是你从旁观者变成第二个伤者。对陌生人要不要出手是你自己的权衡，条目会把免责条款、自保动作和风险面都写清楚，不替你把它算成非做不可的理由。
+La sección de primeros auxilios se lee con este criterio: entre 38.227 casos de paro cardíaco extrahospitalario en China, el 79,2 % ocurrió en casa; aprender compresiones sirve primero para aplicarlas a alguien de tu propia familia. Reglas como «si ves a alguien ahogándose, no entres al agua» o «si presenciás una pelea, no intentes separarla con las manos» son también reglas de autoprotección: evitan que pases de testigo a segunda persona herida. Decidir si ayudar a un desconocido es una ponderación personal; las recomendaciones explican las cláusulas de exención, las acciones de autoprotección y los riesgos, sin presentarlo como una obligación.
 
-死亡率类数字、时间/精力类数字、金钱类数字和法律后果分开口径，不做跨口径换算。这四种资源对应检索页上的四个「换回什么」，互相之间不做比较。
+Los números de mortalidad, tiempo y energía, dinero y consecuencias legales se mantienen en criterios separados; no se convierten unos en otros. Estos cuatro recursos corresponden a las cuatro opciones de «qué recuperar» en la búsqueda y no se comparan entre sí.
 
-## 证据分级
+## Niveles de evidencia
 
-每条建议都标注证据等级：
+Cada recomendación indica un nivel de evidencia:
 
-| 等级 | 含义 |
+| Nivel | Significado |
 | --- | --- |
-| A | 有可量化证据，来自荟萃分析、大型队列或 RCT，能给出具体数字（HR、RR、下降百分比） |
-| B | 有研究支撑但难以量化，或证据来自小样本/单一研究 |
-| C | 作者经验或普遍共识，没有直接文献 |
+| A | Evidencia cuantificable proveniente de metaanálisis, grandes estudios de cohorte o ensayos controlados aleatorizados, con números concretos como HR, RR o porcentajes de reducción |
+| B | Hay respaldo de investigación, pero es difícil cuantificarlo, o la evidencia proviene de una muestra pequeña o de un único estudio |
+| C | Experiencia del autor o consenso general, sin bibliografía directa |
 
-全书 498 条中 A 级 323 条、B 级 126 条、C 级 49 条，另有 45 条标注了争议、39 处标注了 TODO 待核实。有争议的 A/B 级条目会标注「争议」并列出反方证据。所有来源只引原始文献（期刊论文附 DOI 或 PubMed 链接，或 WHO/CDC/国家统计局等官方机构报告），不引二手转述。不确定的数字标「待核实」。
+De las 498 recomendaciones, 323 son de nivel A, 126 de nivel B y 49 de nivel C. Además, 45 están marcadas como discutidas y 39 contienen un TODO pendiente de verificación. Las recomendaciones A/B discutidas indican la controversia y presentan la evidencia contraria. Todas las fuentes son primarias —artículos académicos con DOI o enlace a PubMed, o informes de organismos oficiales como la OMS, los CDC o la Oficina Nacional de Estadísticas—; no se usan resúmenes de segunda mano. Los números inciertos se marcan como «pendientes de verificación».
 
-## 性价比档
+## Niveles de relación calidad-precio
 
-证据等级回答的是「这个数字可不可信」，不回答「值不值得做」。所以每条另外标一个收益量级和一个口径，检索页由它和三项成本合成一个性价比档：
+El nivel de evidencia responde «¿qué tan confiable es este número?», no «¿conviene hacerlo?». Por eso cada recomendación también tiene un nivel de beneficio y un criterio; la búsqueda los combina con los tres costos para calcular una categoría:
 
-| 维度 | 取值 | 怎么定的 |
+| Dimensión | Valores | Cómo se determina |
 | --- | --- | --- |
-| 口径 | 换寿命 / 换钱 / 换时间精力 / 换人身自由 | 按这条主要换回什么。**不同口径之间不做比较**，「总死亡率降 12%」和「每年省 500 元」不在一把尺子上 |
-| 收益量级 | 大 / 中 / 小 | 尽量按阈值从条目自己的「收益」栏里机械套：换寿命看相对降幅（≥20% 为大，10–20% 为中，<10% 或只有替代终点为小）；换钱看金额（万元级为大，数百到数千为中，几十元为小）；换人身自由看后果（避免刑事责任为大，避免拘留或行政处罚为中，避免民事纠纷为小）；换时间精力看节省量（每天小时级为大，每周小时级为中，一次性为小） |
-| 性价比 | 极高 / 高 / 一般 | 收益大且三项成本全为零 = 极高；收益大且成本较低，或收益中且成本为零 = 高；其余 = 一般 |
+| Criterio | Recuperar longevidad / dinero / tiempo y energía / libertad personal | Según lo que esta recomendación devuelve principalmente. **Los criterios no se comparan entre sí**: «reducir un 12 % la mortalidad por todas las causas» y «ahorrar 500 yuanes al año» no se miden con la misma regla |
+| Magnitud del beneficio | Grande / mediana / pequeña | Siempre que sea posible, se aplican mecánicamente los umbrales de la sección «Beneficio»: para longevidad, una reducción relativa ≥20 % es grande, 10–20 % es mediana y <10 % o solo un resultado indirecto es pequeña; para dinero, las cantidades del orden de decenas de miles son grandes, cientos a miles son medianas y decenas son pequeñas; para libertad personal, evitar responsabilidad penal es grande, evitar detención o sanción administrativa es mediano y evitar un conflicto civil es pequeño; para tiempo y energía, ahorrar horas por día es grande, horas por semana es mediano y un ahorro puntual es pequeño |
+| Relación calidad-precio | Muy alta / alta / normal | Beneficio grande y los tres costos en cero = muy alta; beneficio grande con costos bajos, o beneficio mediano con costos en cero = alta; el resto = normal |
 
-全书 498 条中性价比极高 88 条（18%）、高 248 条（50%）、一般 162 条（33%）。中间一档偏厚是有意的：底层的收益量级只有三级判断，再往下切就是假装精度。
+De las 498 recomendaciones, 88 tienen una relación calidad-precio muy alta (18 %), 248 alta (50 %) y 162 normal (33 %). La categoría intermedia es deliberadamente amplia: como la magnitud del beneficio solo tiene tres niveles, subdividirla más daría una falsa precisión.
 
-**这一档是作者判断，不是证据**，本质上是 C 级，和证据等级正交。可以是 A 级但性价比一般（带状疱疹疫苗有 97.2% 效力的三期 RCT，但两针三四千元、带状疱疹很少致命），也可以是 C 级但性价比极高（出境前把行程发给家人）。「一般」不等于不该做——全书的条目都是建议做的，只是这一档要你自己权衡那笔花销。
+**Esta categoría es una valoración del autor, no evidencia**; en esencia es de nivel C y es independiente del nivel de evidencia. Puede haber una recomendación A con relación calidad-precio normal —la vacuna contra el herpes zóster tiene una eficacia del 97,2 % en un ensayo de fase III, pero las dos dosis cuestan entre 3.000 y 4.000 yuanes y el herpes zóster rara vez es mortal—, o una recomendación C con relación calidad-precio muy alta —enviar el itinerario a tu familia antes de salir del país—. «Normal» no significa que no convenga hacerlo: todas las recomendaciones del libro son acciones sugeridas; esta categoría solo indica que tenés que ponderar ese gasto.
 
-## 读懂数字（术语表）
+## Entender los términos numéricos
 
-正文尽量说人话，但引用研究时绕不开几个统计名词。看不懂时查这张表；在线检索页里把鼠标放到（或点一下）带虚线的词上也会弹出解释。
+El texto intenta hablar en lenguaje cotidiano, pero al citar investigaciones aparecen algunos términos estadísticos inevitables. Consultá esta tabla si algo no se entiende; en la búsqueda en línea, al pasar el cursor sobre una palabra subrayada con puntos —o tocarla— también aparece una explicación.
 
 <details>
-<summary>展开 40 条术语（总死亡率、HR、RR、95% CI、荟萃分析、BMI、LPR、定金与订金……）</summary>
+<summary>Mostrar 40 términos (mortalidad por todas las causas, HR, RR, IC del 95 %, metaanálisis, IMC, LPR, depósito y anticipo…)</summary>
 
-| 术语 | 意思 |
+| Término | Significado |
 | --- | --- |
-| 总死亡率 | 一段时间内死于任何原因的人数比例，不分死因。本书用它衡量「活得久不久」。原文献叫全因死亡率，英文缩写 ACM |
-| HR | 风险比。两组人在同样时间里出事（死亡、发病）的速度之比。HR 0.87 表示比对照组低 13%，HR 1.21 表示高 21% |
-| RR | 相对风险。两组人出事的概率之比，读法同 HR |
-| OR | 比值比。两组人出事「几率」之比，事件少见时接近 RR，事件常见时会夸大差异 |
-| IRR | 发病率之比，读法同 RR |
-| RaR | 发生次数之比（如跌倒次数），读法同 RR |
-| 标准化死亡比 | SMR。一群人实际死亡人数，除以按同龄一般人群的死亡率算出的预期人数。5.86 表示死亡是同龄人的 5.86 倍 |
-| 风险差 | 两组出事概率相减，直接给出「每一千人多出几例」。比值只说倍数，风险差说绝对多了多少人 |
-| 95% CI | 95% 置信区间。真实值大概率落在的范围。比值类区间跨过 1、差值类区间跨过 0，就说明差异可能只是巧合，文中会写「无统计学意义」 |
-| RCT | 随机对照试验。把人随机分成两组，一组做干预一组不做，比较结果。最能说明因果 |
-| 荟萃分析 | 把多项研究的结果合并统计，得到一个总的估计。也叫 meta 分析 |
-| 队列 | 队列研究。追踪一群人多年，看谁出事。能说明相关，不能完全说明因果 |
-| 观察性 | 观察性研究。研究者只观察不干预，结果可能受混杂和反向因果影响，数字要打折看 |
-| 混杂 | 第三个因素同时影响原因和结果，让相关看起来像因果。爱吃菜的人往往也更爱运动 |
-| 反向因果 | 不是 A 导致 B，而是 B 导致 A。不是睡得多让人早死，而是病重的人睡得多 |
-| d、g | 效应量。两组平均值差了多少个标准差。0.2 算小，0.5 中等，0.8 大 |
-| r | 相关系数。两件事同向变化的程度，从 -1 到 1，0.1 弱、0.3 中、0.5 强 |
-| MET | 运动强度单位。1 MET 是安静坐着，快走约 3 到 4 MET。MET·h 是强度乘小时数 |
-| GRADE | 给证据质量打分的国际标准，分高、中、低、极低四档 |
-| 意向筛查分析 | 按「邀请了谁」而不是「谁真去做了」来算效果，会低估筛查对真去做的人的作用 |
-| 包年 | 吸烟量单位。每天包数乘以吸烟年数，30 包年就是每天一包抽 30 年 |
-| BMI | 体重指数。体重（公斤）除以身高（米）的平方 |
-| LDL | 低密度脂蛋白胆固醇，俗称坏胆固醇 |
-| HBsAg | 乙肝表面抗原，阳性表示已感染乙肝病毒 |
-| HPV | 人乳头瘤病毒，部分型别长期感染会导致宫颈癌 |
-| LDCT | 低剂量胸部 CT，辐射量约为普通 CT 的五分之一到十分之一 |
-| PM2.5 | 直径 2.5 微米以下的空气颗粒物 |
-| NOVA | 一种按加工程度给食品分类的方法，「超加工食品」就是它的第四类 |
-| LPR | 贷款市场报价利率。中国的基准贷款利率，每月 20 日公布，房贷和民间借贷上限都参照它 |
-| 一裁终局 | 劳动仲裁裁决直接生效，用人单位不能再向法院起诉 |
-| 粗结婚率、粗离婚率 | 每千人中当年登记结婚、离婚的对数。离婚对数除以结婚对数是另一个口径，叫离结比，两者不能混 |
-| AED | 自动体外除颤器。公共场所常见的红色或黄色急救箱，开机后按语音提示操作，会自己判断要不要电击 |
-| CPR | 心肺复苏。心脏骤停时用力按压胸口，让血继续流动 |
-| 3C 认证 | 中国强制性产品认证。列入目录的产品没有这个标志不准出厂、销售 |
-| ICP 备案 | 网站或 App 上线前在工信部系统登记的手续 |
-| 等级保护 | 网络安全等级保护制度。按系统重要程度分级，落实相应的安全措施 |
-| GPL | 一种开源许可证。用了它的代码做产品，分发时通常要一并开源 |
-| 竞业限制 | 离职后一段时间内不去竞争对手处任职的约定，公司要按月付补偿，最长 2 年 |
-| 认缴出资 | 注册公司时承诺投入的钱。承诺了就要在法定期限内实缴，不是写着好看 |
-| 定金与订金 | 定金有罚则，收方违约要双倍返还，最多为合同额 20%；订金只是预付款，没有罚则 |
+| Mortalidad por todas las causas | Proporción de personas que mueren por cualquier motivo durante un período, sin distinguir la causa. El libro la usa para medir cuánto se vive. En las fuentes originales se llama mortalidad por todas las causas y su abreviatura en inglés es ACM |
+| HR | Razón de riesgos. Cociente entre la velocidad a la que ocurren eventos —muerte, enfermedad— en dos grupos durante el mismo período. HR 0,87 significa un 13 % menos que el grupo de control; HR 1,21 significa un 21 % más |
+| RR | Riesgo relativo. Cociente entre las probabilidades de que ocurra un evento en dos grupos; se interpreta igual que HR |
+| OR | Razón de momios. Cociente entre las «posibilidades» de que ocurra un evento en dos grupos. Cuando el evento es poco frecuente se aproxima al RR; cuando es común puede exagerar la diferencia |
+| IRR | Razón de tasas de incidencia; se interpreta igual que RR |
+| RaR | Razón de cantidad de eventos —por ejemplo, cantidad de caídas—; se interpreta igual que RR |
+| Razón de mortalidad estandarizada | SMR. Cantidad real de muertes de un grupo dividida por la cantidad esperada según la mortalidad de la población general de la misma edad. 5,86 significa 5,86 veces la mortalidad de personas de la misma edad |
+| Diferencia de riesgos | Resta de las probabilidades de que ocurra un evento en dos grupos; muestra directamente cuántos casos adicionales hay por cada mil personas. Una razón solo indica cuántas veces; la diferencia de riesgos indica cuántas personas más son |
+| IC del 95 % | Intervalo de confianza del 95 %. Rango en el que probablemente se encuentre el valor real. Si el intervalo de una razón cruza 1, o el de una diferencia cruza 0, la diferencia puede deberse al azar; el texto lo indica como «sin significación estadística» |
+| RCT | Ensayo controlado aleatorizado. Las personas se dividen al azar en dos grupos, uno recibe la intervención y el otro no, y se comparan los resultados. Es el diseño que mejor muestra causalidad |
+| Metaanálisis | Combinación estadística de los resultados de varios estudios para obtener una estimación general |
+| Cohorte | Estudio de cohorte. Sigue durante años a un grupo de personas para observar quién sufre un evento. Puede mostrar una asociación, pero no demuestra completamente la causalidad |
+| Observacional | Estudio observacional. Los investigadores observan sin intervenir; los resultados pueden estar afectados por factores de confusión y causalidad inversa, por lo que los números deben interpretarse con cautela |
+| Factor de confusión | Tercer factor que influye a la vez en la causa y el resultado, haciendo que una asociación parezca causal. Las personas que comen verduras a menudo también hacen más ejercicio |
+| Causalidad inversa | No es A lo que causa B, sino B lo que causa A. No es que dormir mucho provoque una muerte temprana; las personas gravemente enfermas pueden dormir más |
+| d, g | Tamaño del efecto. Cuántas desviaciones estándar separan los promedios de dos grupos. 0,2 se considera pequeño, 0,5 mediano y 0,8 grande |
+| r | Coeficiente de correlación. Grado en que dos cosas cambian en la misma dirección, entre −1 y 1; 0,1 es débil, 0,3 mediano y 0,5 fuerte |
+| MET | Unidad de intensidad del ejercicio. 1 MET es estar sentado en reposo; caminar rápido equivale aproximadamente a 3–4 MET. MET·h es la intensidad multiplicada por las horas |
+| GRADE | Estándar internacional para calificar la calidad de la evidencia en cuatro niveles: alta, moderada, baja y muy baja |
+| Análisis por intención de cribado | Calcula el efecto según quién fue invitado y no según quién efectivamente se hizo el estudio; puede subestimar el efecto del cribado en quienes sí participaron |
+| Paquete-año | Unidad de consumo de tabaco. Cantidad de paquetes diarios multiplicada por los años de consumo; 30 paquetes-año son un paquete diario durante 30 años |
+| IMC | Índice de masa corporal. Peso en kilogramos dividido por la altura en metros al cuadrado |
+| LDL | Colesterol unido a lipoproteínas de baja densidad, conocido como colesterol malo |
+| HBsAg | Antígeno de superficie de la hepatitis B. Un resultado positivo indica infección por el virus de la hepatitis B |
+| HPV | Virus del papiloma humano. La infección persistente por algunos tipos puede causar cáncer de cuello uterino |
+| LDCT | Tomografía computarizada de tórax de baja dosis, con aproximadamente entre una quinta y una décima parte de la radiación de una tomografía común |
+| PM2,5 | Partículas contaminantes del aire con un diámetro de hasta 2,5 micrómetros |
+| NOVA | Método que clasifica los alimentos según su grado de procesamiento; los ultraprocesados pertenecen a la cuarta categoría |
+| LPR | Tasa preferencial de préstamos. Tasa de referencia de los préstamos en China, publicada el día 20 de cada mes; las hipotecas y el límite de los préstamos privados también la toman como referencia |
+| Decisión arbitral definitiva | La decisión del arbitraje laboral entra directamente en vigor y el empleador no puede volver a demandar ante un tribunal |
+| Tasa bruta de matrimonio y tasa bruta de divorcio | Cantidad de matrimonios o divorcios registrados ese año por cada mil personas. La cantidad de divorcios dividida por la cantidad de matrimonios es otro criterio, llamado proporción divorcio-matrimonio; no deben confundirse |
+| AED | Desfibrilador externo automático. Equipo de primeros auxilios rojo o amarillo frecuente en lugares públicos. Al encenderlo, da instrucciones de voz y decide por sí mismo si hace falta una descarga |
+| RCP | Reanimación cardiopulmonar. Compresiones fuertes en el pecho durante un paro cardíaco para mantener la circulación de la sangre |
+| Certificación 3C | Certificación obligatoria de productos en China. Los productos incluidos en el catálogo no pueden fabricarse ni venderse sin esa marca |
+| Registro ICP | Trámite de registro ante el sistema del Ministerio de Industria y Tecnología de la Información antes de poner en línea un sitio web o una aplicación |
+| Protección por niveles | Sistema de protección de la ciberseguridad. Clasifica los sistemas según su importancia y exige medidas de seguridad correspondientes |
+| GPL | Licencia de código abierto. Al distribuir un producto que usa código bajo esta licencia, normalmente también hay que publicar el código fuente |
+| Restricción de competencia | Acuerdo que impide trabajar para un competidor durante cierto tiempo después de dejar un empleo. La empresa debe pagar una compensación mensual y el período máximo es de dos años |
+| Aporte de capital suscripto | Dinero que una persona se compromete a aportar al registrar una empresa. El compromiso debe pagarse dentro del plazo legal; no es una cifra meramente decorativa |
+| Depósito y anticipo | El depósito tiene una penalidad: si incumple quien lo recibió, debe devolver el doble, hasta un máximo del 20 % del contrato. El anticipo es solo un pago adelantado y no tiene esa penalidad |
 
 </details>
 
-## 目录
+## Índice
 
-1. [不要早死](book/01-不要早死.md)：外因死亡、燃气与中毒、疫苗、筛查、心理危机、家庭应急装备、肉眼血尿等该去查的信号。口径：总死亡率 或特定死因。
-2. [不要慢慢死](book/02-不要慢慢死.md)：烟酒、运动、睡眠、饮食、久坐。口径：总死亡率 或特定死因。
-3. [不要浪费精力](book/03-不要浪费精力.md)：睡眠、打断、多任务、决策疲劳、人际负债。口径：精力/时间。
-4. [不要浪费时间](book/04-不要浪费时间.md)：无收益项目、沉没成本、拖延、会议、通勤。口径：时间。
-5. [不要浪费钱](book/05-不要浪费钱.md)：订阅、彩票、利息、保险、基金费率、个人养老金、车险、预付款、直播带货、医保个人账户、孩子被骗与充值退款。口径：金钱。
-6. [反面清单](book/06-反面清单.md)：看起来性价比高但其实不高的东西。
-7. [没钱的时候怎么活](book/07-没钱的时候怎么活.md)：救助、补贴、找活、住宿吃饭、医疗、欠薪维权、避坑。口径：金钱/保障。
-8. [别把自己搭进去：法律与财产安全](book/08-别把自己搭进去.md)：交通事故、被骗止付、AI 换脸拟声、被指控与被诬告后的救济、以举报相要挟的敲诈与自己索赔的边界、冲突与泄愤式极端暴力、伤人冲动与身边人的送诊权、被网暴之后走平台与禁令、彩礼、婚前财产、担保、反诈、诉讼时效、被执行与失信名单、养犬责任。口径：金钱/人身自由。
-9. [普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md)：谣言、侮辱英烈、境外内容只看不转、传播色情、兼职洗钱、伪造材料骗贷、高空抛物、仿真枪、无人机、偷拍、养不了孩子时的合法送养与拐卖遗弃的界线、赌博、野味。口径：人身自由/金钱。
-10. [恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md)：择偶策略、纠缠的红线、兴趣信号、关系质量、异地恋、登记流程、婚检、健康账、时间账、钱账、父母出资买房与夫妻共同债务、退出成本。长文见 [docs/结婚划不划算.md](docs/结婚划不划算.md)。
-11. [程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md)：外挂、爬虫、抢票脚本、删库、带走源码、接单开发、竞业、开源许可、备案。口径：人身自由/金钱。
-12. [创业与做生意：别把家底赔进去](book/12-创业与做生意.md)：本钱、担保、主体选择、注册登记、许可证、纳税申报、发票、涉税诈骗、合同、用人、量产、进货与用图的知识产权红线、退场。口径：金钱/法律责任。
-13. [紧急情况：先做什么](book/13-紧急情况.md)：心脏骤停、卒中与后循环卒中、眼中风、心梗、主动脉夹层、霹雳样头痛、慢性硬膜下血肿、肺栓塞、大出血、咬伤、烧烫伤、过敏性休克、癫痫、低血糖、触电、一氧化碳、误服与化学品灼伤、扎进身体的异物、骨折固定、骗局、隐私威胁、中暑、火灾、溺水、迷路、失温、蛇咬、地震、野兽、雷击、高原病、蜱虫、野外饮水；还有救不救得起：老人摔倒怎么扶、撞见斗殴怎么办、救人受伤之后的钱找谁。口径：存活率与金钱，末几条兼及人身自由。
-14. [账号与信息安全](book/14-账号与信息安全.md)：二次验证、密码、SIM 卡、手机丢失、银行卡盗刷、登录设备、App 权限、人脸识别、查阅与删除权。口径：金钱/个人信息。
-15. [租房与买房](book/15-租房与买房.md)：押金、暴力腾退、中介代收、资金监管、买卖不破租赁、产权核对、交易资金专户、隔断房。口径：金钱。
-16. [得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md)：服药依从、门诊慢特病跨省结算、复查记录、别停药试偏方、长期处方、家庭医生签约、并发症筛查。口径：总死亡率/金钱。
-17. [家里有老人](book/17-家里有老人.md)：意定监护、遗嘱形式、账户与话术、投资养老与以房养老骗局、长期护理保险。口径：金钱/人身自由。
-18. [养孩子划不划算](book/18-养孩子划不划算.md)：育儿补贴、产假与生育津贴、三期保护、时间账、钱账。口径：金钱/时间。
-19. [在职、离职和工伤](book/19-在职离职和工伤.md)：加班费、年休假、试用期；职业病危害告知与三次体检、粉尘噪声防护；N、代通知金、2N、别签主动辞职、留证；工伤认定时限、单位未参保、劳动能力鉴定、工亡待遇。口径：金钱。
-20. [刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md)：安全睡眠、乙肝首针、免疫规划疫苗、母乳与辅食、冲奶水温、蜂蜜、维生素 K、发热就医红线、不摇晃、尿布与大件采购。口径：婴儿死亡率/金钱。
-21. [出国、旅行与境外安全](book/21-出国旅行与境外安全.md)：安全提醒级别、12308、领事保护的边界、境外医疗保险、境外高薪招聘骗局、证件丢失、境外驾照、中介备案。口径：金钱/人身自由。
-22. [怎么放松：娱乐场所和减压](book/22-怎么放松.md)：安全出口、明码标价、涉毒红线、别人递的东西、网吧实名、剧本杀选址；运动、正念、呼吸、社交、绿地。口径：金钱/人身自由，以及精力/总死亡率。
-23. [学什么技能划算](book/23-学什么技能划算.md)：读书还是打工（童工年龄线、教育与死亡率、全国学历结构、免学费与助学金助学贷款、中职升学通道、怎么自己算这笔账）、教育回报率、山寨证书、培训补贴、抗自动化的维度、技能等级、紧缺职业怎么查。口径：金钱/时间，其中一条为死亡率。
-24. [看病：怎么少花钱少走弯路](book/24-看病.md)：分级诊疗与转诊、起付线连续计算、报销比例差、预留号源、异地就医必要性评估、病历留存与封存、急诊预检分诊的四级顺序、无力支付时的疾病应急救助、伤残鉴定的时机、残疾人证怎么办。口径：金钱/时间。
-25. [人走了以后要办什么](book/25-人走了以后要办什么.md)：报警与死亡证明、遗体接运与火化、死因异议与尸检、注销户口、殡葬基础项目清单、价格违法、中介备案、公积金余额与社保待遇、死者个人信息权利。口径：金钱。
-26. [做一个网站或平台：资质、备案和服务器](book/26-做一个网站或平台.md)：支付结算红线、ICP 许可与备案、直播与视听资质、平台核验与涉税报送、内容治理、实名、未成年人、通知删除、数据出境、服务器选型。口径：人身自由/金钱。长文见 [docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)。
-27. [怀孕和生产：从发现怀孕到出院办证](book/27-怀孕和生产.md)：叶酸、建册与免费产检、三病筛查与母婴阻断、孕期烟酒、阿司匹林与妊娠期糖尿病、立刻去医院的信号、破水处置、无痛分娩、剖宫产指征、生育保险、出生医学证明、新生儿筛查、参保与落户、产后 42 天复查。口径：死亡率与金钱。
-28. [别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md)：极端节食与进食障碍、医美机构与主诊医师两证、面部填充的失明部位、违法添加西布曲明的减肥产品、合成代谢类固醇、减肥药与性激素的处方和复查、体像评估。口径：死亡率（健康终点），医美两条兼及人身自由。
-29. [遭遇重大打击之后](book/29-遭遇重大打击之后.md)：丧亲头一个月的心血管窗口、重病诊断的第一周、失业、丧偶后的半年、因自杀丧亲、家长去世的孩子、哀伤卡住了去哪挂号、离婚、12356 与 12355、别在应激期做不可逆的决定。口径：总死亡率，末两条为金钱。
-30. [上学以后的孩子](book/30-上学以后的孩子.md)：按小时算的急症、别为了考试推迟治疗、被欺凌怎么办、每天户外 2 小时、学生体检报告单、青少年抑郁筛查、治愈近视的产品、睡眠与作业的硬规定、休学保留学籍、散瞳验光与复查、窝沟封闭。口径：死亡率与健康终点，另有金钱和时间各一到两条。
-31. [十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md)：八条路的法定门槛；当兵（兵役登记、义务兵两年、拒服兵役的联合惩戒、学费补偿与升学、安置与 30 日报到、退役金与工龄税收）；基层服务项目的定向考录；特岗教师期满入编；消防员与军队文职；自考、成人高考与开放大学；灵活就业的社保；骑手的职业伤害保障。口径：金钱/时间，拒服兵役那条兼及人身自由。
+1. [No mueras antes de tiempo](book/01-不要早死.md): muertes por causas externas, gas y envenenamiento, vacunas, cribados, crisis psicológicas, equipamiento de emergencia doméstica y señales que requieren consulta, como sangre visible en la orina. Criterio: mortalidad por todas las causas o por una causa específica.
+2. [No mueras lentamente](book/02-不要慢慢死.md): tabaco y alcohol, ejercicio, sueño, alimentación y sedentarismo. Criterio: mortalidad por todas las causas o por una causa específica.
+3. [No desperdicies energía](book/03-不要浪费精力.md): sueño, interrupciones, multitarea, fatiga de decisión y deudas interpersonales. Criterio: energía y tiempo.
+4. [No desperdicies tiempo](book/04-不要浪费时间.md): proyectos sin beneficio, costos hundidos, procrastinación, reuniones y viajes diarios. Criterio: tiempo.
+5. [No desperdicies dinero](book/05-不要浪费钱.md): suscripciones, lotería, intereses, seguros, comisiones de fondos, pensión personal, seguro del auto, pagos anticipados, ventas en transmisiones en vivo, cuenta individual del seguro médico, estafas y reembolsos por compras de los hijos. Criterio: dinero.
+6. [Lista de lo que no conviene](book/06-反面清单.md): cosas que parecen tener una buena relación calidad-precio pero en realidad no la tienen.
+7. [Cómo vivir cuando no hay dinero](book/07-没钱的时候怎么活.md): asistencia, subsidios, búsqueda de empleo, alojamiento y comida, atención médica, reclamos por salarios adeudados y prevención de estafas. Criterio: dinero y protección.
+8. [No te metas en problemas: seguridad legal y patrimonial](book/08-别把自己搭进去.md): accidentes de tránsito, bloqueo de pagos después de una estafa, voces e imágenes falsas generadas por IA, cómo actuar si te acusan o denuncian falsamente, límites entre la extorsión mediante amenazas de denuncia y tu propio reclamo, conflictos y violencia extrema por venganza, impulsos de herir y derecho de las personas cercanas a llevarte a recibir atención, qué hacer tras el acoso en línea, dote matrimonial, bienes anteriores al matrimonio, garantías, prevención de estafas, plazos de prescripción, ejecución de deudas, listas de morosos y responsabilidad por perros. Criterio: dinero y libertad personal.
+9. [Límites legales que una persona común puede cruzar fácilmente](book/09-普通人容易踩的法律红线.md): rumores, insultos a héroes y mártires, mirar contenido extranjero sin reenviarlo, difusión de pornografía, lavado de dinero mediante trabajos ocasionales, falsificación de documentos para obtener préstamos, arrojar objetos desde altura, armas de imitación, drones, grabaciones ocultas, límites entre la entrega legal de un hijo que no se puede criar y la trata o el abandono, apuestas y productos de fauna silvestre. Criterio: libertad personal y dinero.
+10. [¿Conviene tener una relación y casarse?](book/10-恋爱和结婚划不划算.md): estrategias para elegir pareja, límites legales del acoso, señales de interés, calidad de la relación, relaciones a distancia, trámites de registro, examen prematrimonial, balance de salud, tiempo y dinero, aportes de los padres para comprar una vivienda y deudas comunes del matrimonio, y costo de salida. Texto largo en [docs/结婚划不划算.md](docs/结婚划不划算.md).
+11. [Límites legales que programadores y técnicos pueden cruzar fácilmente](book/11-程序员和技术人容易踩的红线.md): trampas, scraping, scripts para comprar entradas, borrar bases de datos, llevarse código fuente, aceptar ciertos desarrollos por encargo, restricciones de competencia, licencias de código abierto y registros. Criterio: libertad personal y dinero.
+12. [Emprender y hacer negocios: no pierdas los ahorros de tu familia](book/12-创业与做生意.md): capital inicial, garantías, elección de la forma jurídica, registro, permisos, declaraciones fiscales, facturas, estafas tributarias, contratos, empleados, producción en serie, propiedad intelectual de productos y diseños, y salida del negocio. Criterio: dinero y responsabilidad legal.
+13. [Emergencias: qué hacer primero](book/13-紧急情况.md): paro cardíaco, accidente cerebrovascular, accidente cerebrovascular de circulación posterior, accidente cerebrovascular ocular, infarto, disección aórtica, dolor de cabeza en trueno, hematoma subdural crónico, embolia pulmonar, hemorragia grave, mordeduras, quemaduras, shock anafiláctico, epilepsia, hipoglucemia, electrocución, monóxido de carbono, intoxicaciones y quemaduras químicas, objetos incrustados, inmovilización de fracturas, estafas, amenazas a la privacidad, golpe de calor, incendios, ahogamiento, extravío, hipotermia, mordeduras de serpiente, terremotos, animales salvajes, rayos, mal de altura y agua en la naturaleza; también incluye quién paga cuando ayudar sale mal: cómo levantar a una persona mayor que se cayó, qué hacer al presenciar una pelea y a quién reclamar si alguien se lesiona al ser auxiliado. Criterio: supervivencia y dinero; los últimos puntos también abarcan libertad personal.
+14. [Seguridad de cuentas e información](book/14-账号与信息安全.md): autenticación de dos factores, contraseñas, tarjetas SIM, pérdida del celular, cargos no autorizados en tarjetas bancarias, dispositivos con sesión iniciada, permisos mínimos de las aplicaciones, reconocimiento facial y derechos de consulta y eliminación. Criterio: dinero e información personal.
+15. [Alquilar y comprar vivienda](book/15-租房与买房.md): depósitos, desalojos violentos, cobros por intermediarios, supervisión de fondos, continuidad del alquiler después de una compraventa, verificación de la propiedad, cuentas especiales para fondos de transacciones y habitaciones divididas. Criterio: dinero.
+16. [Cómo vivir después de recibir un diagnóstico de enfermedad crónica](book/16-得了慢性病之后怎么活.md): adherencia a la medicación, liquidación interprovincial de enfermedades crónicas especiales ambulatorias, registros de controles, no suspender el tratamiento para probar remedios, recetas prolongadas, médico de familia y cribado de complicaciones. Criterio: mortalidad por todas las causas y dinero.
+17. [Cuando hay una persona mayor en casa](book/17-家里有老人.md): tutela anticipada, formas de testamento, cuentas y conversaciones, estafas de inversión para la vejez y de «vivienda a cambio de pensión», y seguro de cuidados de larga duración. Criterio: dinero y libertad personal.
+18. [¿Conviene criar hijos?](book/18-养孩子划不划算.md): subsidios de crianza, licencia y asignación por maternidad, protección durante el embarazo, el parto y la lactancia, balance de tiempo y balance de dinero. Criterio: dinero y tiempo.
+19. [Durante y después del empleo, y accidentes laborales](book/19-在职离职和工伤.md): pago de horas extra, vacaciones anuales y período de prueba; información sobre riesgos de enfermedades profesionales y tres controles de salud, protección frente a polvo, ruido y sustancias químicas; indemnizaciones N, por falta de preaviso y 2N, no firmar una renuncia voluntaria y conservar pruebas; plazos para reconocer accidentes laborales, empleadores sin seguro, evaluación de capacidad laboral y prestaciones por muerte laboral. Criterio: dinero.
+20. [Cómo cuidar a un recién nacido](book/20-刚出生的孩子怎么带.md): sueño seguro, primera dosis contra la hepatitis B, vacunas del programa nacional, lactancia y alimentación complementaria, temperatura del agua para preparar fórmula, miel, vitamina K, señales de fiebre que requieren consulta, no sacudir al bebé y compras de pañales y artículos grandes. Criterio: mortalidad infantil y dinero.
+21. [Viajes al extranjero y seguridad fuera del país](book/21-出国旅行与境外安全.md): niveles de alerta, línea 12308, límites de la protección consular, seguro médico internacional, estafas de empleos bien pagos en el extranjero, pérdida de documentos, licencias de conducir extranjeras y registro de intermediarios. Criterio: dinero y libertad personal.
+22. [Cómo relajarse: lugares de ocio y reducción del estrés](book/22-怎么放松.md): salidas de emergencia, precios visibles, límites relacionados con drogas, no aceptar objetos de desconocidos, registro con nombre real en cibercafés y elección del lugar para juegos de rol o salas de escape; ejercicio, atención plena, respiración, vínculos sociales y espacios verdes. Criterio: dinero y libertad personal, además de energía y mortalidad por todas las causas.
+23. [Qué habilidades conviene aprender](book/23-学什么技能划算.md): si seguir estudiando o empezar a trabajar —edad mínima para el trabajo infantil, educación y mortalidad, estructura educativa nacional, exención de matrícula, becas y préstamos, vías de ascenso desde la formación profesional y cómo calcular la decisión—; retorno de la educación, certificados falsos, subsidios de capacitación, dimensiones resistentes a la automatización, niveles de habilidades y cómo consultar profesiones con escasez. Criterio: retorno monetario y tiempo; uno de los puntos tiene criterio de mortalidad.
+24. [Cómo gastar menos y dar menos vueltas al recibir atención médica](book/24-看病.md): atención por niveles y derivaciones, cálculo continuo del deducible, diferencias en porcentajes de reembolso, turnos reservados, evaluación de necesidad de atención fuera de la provincia, conservación y sellado de historias clínicas, orden de clasificación en urgencias, ayuda de emergencia para enfermedades cuando no se puede pagar, momento de la evaluación de discapacidad y cómo tramitar el certificado. Criterio: dinero y tiempo.
+25. [Qué hacer después de una muerte](book/25-人走了以后要办什么.md): denuncia y certificado de defunción, traslado y cremación, objeciones a la causa de muerte y autopsia, baja del registro domiciliario, lista de servicios funerarios básicos, infracciones de precios, registro de intermediarios, saldo del fondo de vivienda y prestaciones de seguridad social, y derechos sobre la información personal de la persona fallecida. Criterio: dinero.
+26. [Crear un sitio web o una plataforma: permisos, registros y servidores](book/26-做一个网站或平台.md): límites penales de los pagos y liquidaciones, permisos y registros ICP, permisos para transmisiones en vivo y contenido audiovisual, verificación y reporte fiscal de la plataforma, moderación de contenido, identidad real, menores de edad, notificación y eliminación, transferencias de datos al extranjero y elección del servidor. Criterio: libertad personal y dinero. Texto largo en [docs/做平台要办哪些证.md](docs/做平台要办哪些证.md).
+27. [Embarazo y parto: desde descubrir el embarazo hasta tramitar los documentos del alta](book/27-怀孕和生产.md): ácido fólico, apertura de la libreta de salud maternoinfantil y controles prenatales gratuitos, cribado de tres enfermedades y prevención de la transmisión maternoinfantil, tabaco y alcohol durante el embarazo, aspirina y diabetes gestacional, señales que requieren ir inmediatamente al hospital, qué hacer si se rompe la bolsa, parto sin dolor, indicaciones de cesárea, seguro de maternidad, certificado médico de nacimiento, cribados del recién nacido, seguro y registro domiciliario, y control a los 42 días del parto. Criterio: mortalidad y dinero.
+28. [No dañes tu cuerpo por tu apariencia](book/28-别为了外形把身体搞坏.md): dietas extremas y trastornos alimentarios, institución estética y credenciales del médico principal, zonas de riesgo y ceguera por rellenos faciales, productos adelgazantes con sibutramina ilegal, esteroides anabólicos, medicamentos para adelgazar y hormonas sexuales solo con receta y controles, y evaluación de la imagen corporal. Criterio: mortalidad —incluidos resultados de salud—; los dos puntos sobre medicina estética también abarcan la libertad personal.
+29. [Después de un golpe importante](book/29-遭遇重大打击之后.md): ventana cardiovascular durante el primer mes de duelo, primera semana después de un diagnóstico grave, desempleo, primeros seis meses de viudez, duelo por suicidio, cómo alojar y cuidar a los hijos tras la muerte de un progenitor, dónde consultar si el duelo se estanca, divorcio, líneas 12356 y 12355 y no tomar decisiones irreversibles durante una crisis de estrés. Criterio: mortalidad por todas las causas; los dos últimos puntos son monetarios.
+30. [Niños en edad escolar](book/30-上学以后的孩子.md): urgencias que se calculan por horas, no retrasar un tratamiento por los exámenes, qué hacer ante el acoso escolar, dos horas diarias al aire libre, informes de controles médicos escolares, cribado de depresión adolescente, productos que prometen «curar la miopía», reglas estrictas sobre sueño y tareas, conservación de la matrícula durante una pausa escolar, refracción con dilatación y controles, y sellado de fosas y fisuras. Criterio: mortalidad y resultados de salud, con uno o dos puntos adicionales de dinero y tiempo.
+31. [Qué caminos existen después de los 18 años](book/31-十八岁之后有哪几条路.md): requisitos legales de ocho caminos; servicio militar —registro, dos años de servicio obligatorio, sanción conjunta por negarse a servir, compensación de matrícula y acceso a estudios, asignación y registro dentro de 30 días, paga de retiro, antigüedad y beneficios fiscales—; reclutamiento dirigido desde proyectos de servicio comunitario; incorporación de docentes de zonas rurales después del período obligatorio; bomberos y personal civil militar; examen autodidacta, examen de educación para adultos y universidad abierta; seguridad social del empleo flexible; y cobertura de accidentes laborales para repartidores. Criterio: dinero y tiempo; el punto sobre negarse al servicio también abarca la libertad personal.
 
-每节内条目按性价比从高到低排列。「不要早死」「不要浪费时间」这类节标题说的是这一节想防住的结果，条目本身要做还是别做，以条目标题为准。长文另见 [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md)、[docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)、[docs/结婚划不划算.md](docs/结婚划不划算.md) 和 [docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md)。每条来源的核实过程记录在 [docs/核实记录](docs/核实记录/)。
+Dentro de cada capítulo, las recomendaciones están ordenadas de mayor a menor relación calidad-precio. Títulos como «No mueras antes de tiempo» o «No desperdicies tiempo» indican el resultado que el capítulo intenta evitar; para saber si una recomendación propone hacer o no hacer algo, hay que mirar su propio título. También hay textos largos en [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md), [docs/做平台要办哪些证.md](docs/做平台要办哪些证.md), [docs/结婚划不划算.md](docs/结婚划不划算.md) y [docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md). El proceso de verificación de cada fuente está registrado en [docs/核实记录](docs/核实记录/).
 
-仓库根目录的 `index.html` 是在线检索页：按关键词、章节、证据等级和成本维度（花钱、花时间、要毅力）筛选条目，数据直接读本文件。在仓库设置里开启 GitHub Pages（Deploy from a branch，分支 main，目录 /）后即可访问。
+El `index.html` de la raíz del repositorio es la página de búsqueda en línea: permite filtrar recomendaciones por palabra clave, capítulo, nivel de evidencia y dimensiones de costo —dinero, tiempo y perseverancia—. Los datos se leen directamente de este archivo. Para habilitarla, hay que configurar GitHub Pages como «Deploy from a branch», elegir la rama `main` y el directorio `/`.
 
-## 正文
+## Texto principal
 
-正文按节拆成 30 个文件放在 [book/](book/)，点上面目录里的节名进入。拆开是因为单文件已经超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来；[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)会把这些文件合起来读，用法不变。
+El texto principal está dividido por capítulos en 30 archivos dentro de [book/](book/); hacé clic en los capítulos del índice para abrirlos. La división fue necesaria porque el archivo único ya superaba el límite de 512 KB del Markdown renderizado por GitHub y los capítulos posteriores no aparecían. La [búsqueda en línea](https://eternity4719.github.io/HowToLiveBetter/) lee y combina esos archivos, por lo que el uso no cambia.
