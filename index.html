@@ -127,6 +127,32 @@ html.dark .switch .sun{display:none} html.dark .switch .moon{display:block}
 .hint{font-size:12px;color:var(--t3);line-height:1.6;margin-top:16px}
 .hint p{margin:4px 0}
 .backdrop{display:none}
+.readme-link{display:flex;align-items:center;gap:8px;padding:8px 0 14px;margin-bottom:20px;border-bottom:1px solid var(--divider);font-size:14px;font-weight:600;color:var(--t1)}
+.readme-link:hover{color:var(--brand-1);text-decoration:none}
+.readme-link svg{width:18px;height:18px;fill:currentColor;flex:none}
+.readme-page{max-width:960px}
+.readme-page .readme-cover{display:block;width:min(100%,820px);height:auto;margin:0 auto 28px;border-radius:10px}
+.readme-page h1{font-size:32px;line-height:1.25;margin:0 0 18px}
+.readme-page h2{font-size:24px;line-height:1.35;margin:42px 0 14px;padding-top:24px;border-top:1px solid var(--divider)}
+.readme-page h3{font-size:18px;margin:28px 0 10px}
+.readme-page p{margin:0 0 14px;color:var(--t2)}
+.readme-page ul,.readme-page ol{margin:0 0 18px;padding-left:28px;color:var(--t2)}
+.readme-page li{margin:5px 0}
+.readme-page table{width:100%;border-collapse:collapse;margin:16px 0 24px;font-size:14px;display:block;overflow-x:auto}
+.readme-page th,.readme-page td{border:1px solid var(--divider);padding:9px 11px;text-align:left;vertical-align:top;min-width:120px}
+.readme-page th{background:var(--bg-mute);color:var(--t1);font-weight:600}
+.readme-page code{font-family:var(--mono);font-size:.9em;background:var(--bg-mute);padding:2px 5px;border-radius:4px}
+.readme-page pre{overflow-x:auto;padding:16px;background:var(--bg-mute);border-radius:8px;margin:16px 0 24px}
+.readme-page pre code{padding:0;background:none}
+.readme-page blockquote{margin:16px 0;padding:10px 16px;border-left:3px solid var(--brand-1);background:var(--brand-soft);color:var(--t2)}
+.readme-page hr{border:0;border-top:1px solid var(--divider);margin:28px 0}
+.readme-page a{overflow-wrap:anywhere}
+.readme-page .readme-badges{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 24px}
+.readme-page .readme-badges img{height:20px;width:auto}
+.readme-page details{border:1px solid var(--divider);border-radius:8px;padding:0 14px;margin:18px 0}
+.readme-page details>summary{cursor:pointer;padding:10px 0;font-weight:600;color:var(--t1)}
+.readme-page .readme-end{margin-top:40px;padding-top:20px;border-top:1px solid var(--divider);color:var(--t3);font-size:13px}
+@media (max-width:960px){.readme-page h1{font-size:26px}.readme-page h2{font-size:21px}.readme-page table{font-size:13px}.readme-page .readme-cover{border-radius:8px}}
 
 /* content */
 .content{padding:calc(var(--nav-h) + 40px) 48px 128px calc(var(--side-w) + 48px)}
@@ -266,7 +292,7 @@ abbr.term:hover{border-bottom-color:var(--brand-1);color:var(--brand-1)}
       <kbd>/</kbd>
     </label>
     <div class="nav-r">
-      <a class="icon-btn" href="README.md" title="Ver README.md" aria-label="README"><svg viewBox="0 0 24 24"><path d="M6 2h9l5 5v15H6zm8 1.5V8h4.5zM8 12h8v1.5H8zm0 3.5h8V17H8z"/></svg></a>
+      <a class="icon-btn" href="/readme" title="Abrir la introducción" aria-label="Introducción"><svg viewBox="0 0 24 24"><path d="M6 2h9l5 5v15H6zm8 1.5V8h4.5zM8 12h8v1.5H8zm0 3.5h8V17H8z"/></svg></a>
       <a class="icon-btn" href="https://github.com/hormatias/ComoVivirMejor" target="_blank" rel="noopener" title="Ver el repositorio de origen en GitHub" aria-label="Repositorio de GitHub"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.5.1-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 5.6 18.3 6 18.3 6c.6 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .3"/></svg></a>
       <button class="switch" id="theme" aria-label="Cambiar el modo oscuro" title="Cambiar el modo oscuro"><span class="knob"><svg class="sun" viewBox="0 0 24 24"><path d="M12 4a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0V5a1 1 0 0 1 1-1zm0 13a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0v-1a1 1 0 0 1 1-1zm8-6a1 1 0 1 1 0 2h-1a1 1 0 1 1 0-2zM5 11a1 1 0 1 1 0 2H4a1 1 0 1 1 0-2zm12.07-5.07a1 1 0 0 1 0 1.41l-.7.71a1 1 0 1 1-1.42-1.41l.71-.71a1 1 0 0 1 1.41 0zM8.05 16.95a1 1 0 0 1 0 1.41l-.7.71a1 1 0 1 1-1.42-1.41l.71-.71a1 1 0 0 1 1.41 0zm9.02 0l.7.71a1 1 0 1 1-1.41 1.41l-.71-.7a1 1 0 0 1 1.42-1.42zM6.34 5.93l.71.71a1 1 0 0 1-1.41 1.41l-.71-.7a1 1 0 0 1 1.41-1.42zM12 8a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg><svg class="moon" viewBox="0 0 24 24"><path d="M12.1 22c-5.5 0-10-4.5-10-10 0-4.8 3.4-8.9 8-9.8.5-.1.9.4.7.9A8 8 0 0 0 20.9 13c.5-.2 1 .2.9.7-.9 4.7-5 8.3-9.7 8.3z"/></svg></span></button>
     </div>
@@ -277,6 +303,7 @@ abbr.term:hover{border-bottom-color:var(--brand-1);color:var(--brand-1)}
 <div class="pop" id="pop" role="tooltip" hidden><b></b><span></span></div>
 <aside class="sidebar" id="sidebar">
   <div class="group">
+    <a class="readme-link" id="readme-link" href="/readme"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h9l5 5v15H6zm8 1.5V8h4.5zM8 12h8v1.5H8zm0 3.5h8V17H8z"/></svg><span>Introducción y README</span></a>
     <div class="gt">Capítulos</div>
     <div class="sec-links" id="f-sec" data-dim="sec"></div>
   </div>
@@ -343,7 +370,8 @@ abbr.term:hover{border-bottom-color:var(--brand-1);color:var(--brand-1)}
 
 <main class="content">
   <div class="doc">
-    <div class="doc-head">
+    <div class="readme-page" id="readme-page" hidden></div>
+    <div class="doc-head" id="doc-head">
       <h1>Guía de vida con alta relación calidad-precio</h1>
       <p>Cada recomendación responde dos preguntas: qué cuesta y qué recupera.</p>
       <p>También hay niveles según quién recibe el beneficio: vos primero, luego tu pareja y familiares directos, después amigos y compañeros, y por último desconocidos. El nivel más bajo no es cero: solo implica menor expectativa de retorno y exige considerar también los riesgos.</p>
@@ -358,7 +386,7 @@ abbr.term:hover{border-bottom-color:var(--brand-1);color:var(--brand-1)}
         <div><button id="reset2">Limpiar filtros</button></div>
       </div>
     </div>
-    <div class="foot">Los criterios numéricos son los indicados en cada recomendación: los capítulos 1 y 2 usan mortalidad por todas las causas o causas específicas; 3 y 4, energía/tiempo; 5, dinero; 7, dinero y protección; 8 y 9, dinero y libertad personal. No se convierten entre sí. El proceso de verificación de fuentes está en <a href="https://github.com/hormatias/ComoVivirMejor/tree/main/docs/%E6%A0%B8%E5%AE%9E%E8%AE%B0%E5%BD%95">registro de verificación</a> . Unlicense, dominio público.</div>
+    <div class="foot" id="doc-foot">Los criterios numéricos son los indicados en cada recomendación: los capítulos 1 y 2 usan mortalidad por todas las causas o causas específicas; 3 y 4, energía/tiempo; 5, dinero; 7, dinero y protección; 8 y 9, dinero y libertad personal. No se convierten entre sí. El proceso de verificación de fuentes está en <a href="https://github.com/hormatias/ComoVivirMejor/tree/main/docs/%E6%A0%B8%E5%AE%9E%E8%AE%B0%E5%BD%95">registro de verificación</a> . Unlicense, dominio público.</div>
   </div>
 </main>
 
@@ -395,6 +423,87 @@ const PERF = (function(){
     .observe({entryTypes:['longtask']}); } catch (e) {}
   return api;
 })();
+
+/* ---------- Renderizado del README ---------- */
+const IS_README = /^\/readme\/?$/.test(location.pathname) || new URLSearchParams(location.search).get('page') === 'readme';
+function readmeHref(path){
+  if (/^https?:|^mailto:|^#/.test(path)) return path;
+  if (path === 'README.md' || path === './README.md') return '/readme';
+  return '/' + path.replace(/^\.\//, '').split('/').map(encodeURIComponent).join('/');
+}
+function readmeInline(parent, text){
+  text = text.replace(/\*\*\[([^\]]+)\]\(([^)]+)\)\*\*/g, '[$1]($2)');
+  text = text.replace(/\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)/g, '![$1]($2)');
+  const re = /!\[([^\]]*)\]\(([^)]+)\)|\[([^\]]+)\]\(([^)]+)\)|`([^`]+)`|\*\*([^*]+)\*\*|__([^_]+)__|\*([^*]+)\*|_([^_]+)_/g;
+  let last=0, m;
+  const addText = s => { if (s) parent.appendChild(document.createTextNode(s)); };
+  while ((m=re.exec(text))){
+    addText(text.slice(last,m.index));
+    if (m[1] !== undefined){
+      const img=document.createElement('img'); img.alt=m[1]; img.src=readmeHref(m[2]); img.loading='lazy'; parent.appendChild(img);
+    } else if (m[3] !== undefined){
+      const a=document.createElement('a'); a.href=readmeHref(m[4]); a.textContent=m[3]; if (/^https?:/.test(m[4])) { a.target='_blank'; a.rel='noopener'; } parent.appendChild(a);
+    } else if (m[5] !== undefined){ const code=document.createElement('code'); code.textContent=m[5]; parent.appendChild(code);
+    } else { const el=document.createElement(m[6]!==undefined||m[7]!==undefined?'strong':'em'); el.textContent=m[6]??m[7]??m[8]??m[9]; parent.appendChild(el); }
+    last=re.lastIndex;
+  }
+  addText(text.slice(last));
+}
+function readmeBlock(parent, lines){
+  let i=0;
+  const appendParagraph = text => { const p=document.createElement('p'); readmeInline(p,text.replace(/<br\s*\/?>(?=.)/g,' ')); parent.appendChild(p); };
+  while(i<lines.length){
+    const line=lines[i].trimEnd();
+    if (!line.trim() || line === '<div align="center">' || line === '</div>'){ i++; continue; }
+    if (line === '<details>'){
+      const body=[]; i++;
+      while(i<lines.length && lines[i].trim()!=='</details>'){ body.push(lines[i]); i++; }
+      i++;
+      const details=document.createElement('details');
+      const summaryMatch=body.join('\n').match(/<summary>([\s\S]*?)<\/summary>/);
+      if(summaryMatch){ const summary=document.createElement('summary'); readmeInline(summary,summaryMatch[1]); details.appendChild(summary); }
+      const content=body.join('\n').replace(/<summary>[\s\S]*?<\/summary>/,'');
+      readmeBlock(details,content.split(/\r?\n/)); parent.appendChild(details); continue;
+    }
+    if (line.startsWith('```')){
+      const code=[]; i++;
+      while(i<lines.length && !lines[i].trim().startsWith('```')){ code.push(lines[i]); i++; }
+      i++; const pre=document.createElement('pre'); const c=document.createElement('code'); c.textContent=code.join('\n'); pre.appendChild(c); parent.appendChild(pre); continue;
+    }
+    let m=/^(#{1,3})\s+(.+)$/.exec(line);
+    if(m){ const h=document.createElement('h'+m[1].length); h.id=m[2].toLowerCase().replace(/[^a-z0-9áéíóúñü]+/g,'-').replace(/^-|-$/g,''); readmeInline(h,m[2]); parent.appendChild(h); i++; continue; }
+    if(/^---+$/.test(line)){ parent.appendChild(document.createElement('hr')); i++; continue; }
+    if(/^\|/.test(line) && i+1<lines.length && /^\|?\s*:?-{3,}/.test(lines[i+1])){
+      const rows=[line]; i+=2;
+      while(i<lines.length && /^\|/.test(lines[i].trim())){ rows.push(lines[i].trim()); i++; }
+      const table=document.createElement('table');
+      rows.forEach((row,ri)=>{ const tr=document.createElement('tr'); row.replace(/^\||\|$/g,'').split('|').forEach(cell=>{ const el=document.createElement(ri===0?'th':'td'); readmeInline(el,cell.trim()); tr.appendChild(el); }); table.appendChild(tr); });
+      parent.appendChild(table); continue;
+    }
+    if(/^[-*]\s+/.test(line) || /^\d+\.\s+/.test(line)){
+      const ordered=/^\d+\.\s+/.test(line); const list=document.createElement(ordered?'ol':'ul');
+      while(i<lines.length){ const current=lines[i].trim(); const match=ordered?/^\d+\.\s+(.+)$/.exec(current):/^[-*]\s+(.+)$/.exec(current); if(!match) break; const li=document.createElement('li'); readmeInline(li,match[1]); list.appendChild(li); i++; }
+      parent.appendChild(list); continue;
+    }
+    if(/^<img\s/.test(line)){
+      const src=line.match(/src="([^"]+)"/)?.[1]; const alt=line.match(/alt="([^"]*)"/)?.[1]||''; if(src){ const img=document.createElement('img'); img.className='readme-cover'; img.src=readmeHref(src); img.alt=alt; parent.appendChild(img); } i++; continue;
+    }
+    if(/^<[^>]+>$/.test(line)){ i++; continue; }
+    const paragraph=[line]; i++;
+    while(i<lines.length && lines[i].trim() && !/^(#{1,3})\s|^[-*]\s+|^\d+\.\s+|^\|/.test(lines[i].trim())){ paragraph.push(lines[i].trim()); i++; }
+    appendParagraph(paragraph.join(' '));
+  }
+}
+function renderReadme(md){
+  const page=document.getElementById('readme-page');
+  document.getElementById('doc-head').hidden=true;
+  document.getElementById('list').hidden=true;
+  document.getElementById('doc-foot').hidden=true;
+  page.hidden=false;
+  page.innerHTML=''; readmeBlock(page,md.split(/\r?\n/));
+  const link=document.getElementById('readme-link'); link.setAttribute('aria-current','page');
+  document.title='Introducción · Guía de vida con alta relación calidad-precio';
+}
 
 /* ---------- 解析 README ---------- */
 function parseReadme(md){
@@ -751,6 +860,11 @@ function wire(){
     const r = await fetch('README.md', {cache:'no-cache'});
     if (!r.ok) throw new Error('http '+r.status);
     const md = await r.text();
+    if (IS_README) {
+      status.remove();
+      renderReadme(md);
+      return;
+    }
     const files = [...new Set(Array.from(md.matchAll(/\]\((book\/[^)]+\.md)\)/g), m => m[1]))].sort();
     if (!files.length) throw new Error('empty');
     const parts = await Promise.all(files.map(async f => {

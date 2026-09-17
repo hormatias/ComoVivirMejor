@@ -2,11 +2,11 @@ const ORIGIN = 'https://raw.githubusercontent.com/hormatias/ComoVivirMejor/main/
 const CACHE_CONTROL = 'public, max-age=300, s-maxage=3600';
 
 function publicPath(pathname) {
-  if (pathname === '/' || pathname === '/index.html') return 'index.html';
-  if (/^\/(README\.md|og\.png|robots\.txt|sitemap\.xml)$/.test(pathname)) {
+  if (pathname === '/' || pathname === '/index.html' || pathname === '/readme' || pathname === '/readme/') return 'index.html';
+  if (/^\/(README\.md|AGENTS\.md|LICENSE|og\.png|robots\.txt|sitemap\.xml)$/.test(pathname)) {
     return pathname.slice(1);
   }
-  if (/^\/book\/[\w\u0080-\uffff ._-]+\.md$/.test(pathname)) {
+  if (/^\/book\/[\w\u0080-\uffff ._-]+\.md$/.test(pathname) || /^\/docs\/[\w\u0080-\uffff ._-]+\.md$/.test(pathname)) {
     return pathname.slice(1);
   }
   return null;
