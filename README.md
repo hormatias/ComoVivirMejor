@@ -23,7 +23,7 @@ Cubre longevidad y prevención de enfermedades, accidentes y primeros auxilios, 
 
 | Pregunta | Dónde buscar |
 | --- | --- |
-| ¿Qué cosas, con un costo casi nulo, reducen de forma apreciable la probabilidad de morir antes de tiempo? | [1. No mueras antes de tiempo](book/01-不要早死.md) |
+| ¿Qué cosas, con un costo casi nulo, reducen de forma apreciable la probabilidad de morir antes de tiempo? | [1. No mueras antes de tiempo](book/01-no-mueras-antes-de-tiempo.md) |
 | ¿Cuánto acortan la vida fumar, beber, estar sentado y dormir poco? | [2. No mueras lentamente](book/02-不要慢慢死.md) |
 | ¿Cómo cambio el hecho de no tener suficiente energía y sufrir interrupciones constantes? | [3. No desperdicies energía](book/03-不要浪费精力.md) |
 | ¿En qué se va todo el tiempo y cómo hago menos cosas sin beneficio? | [4. No desperdicies tiempo](book/04-不要浪费时间.md) |
@@ -175,7 +175,7 @@ El texto intenta hablar en lenguaje cotidiano, pero al citar investigaciones apa
 
 ## Índice
 
-1. [No mueras antes de tiempo](book/01-不要早死.md): muertes por causas externas, gas y envenenamiento, vacunas, cribados, crisis psicológicas, equipamiento de emergencia doméstica y señales que requieren consulta, como sangre visible en la orina. Criterio: mortalidad por todas las causas o por una causa específica.
+1. [No mueras antes de tiempo](book/01-no-mueras-antes-de-tiempo.md): muertes por causas externas, gas y envenenamiento, vacunas, cribados, crisis psicológicas, equipamiento de emergencia doméstica y señales que requieren consulta, como sangre visible en la orina. Criterio: mortalidad por todas las causas o por una causa específica.
 2. [No mueras lentamente](book/02-不要慢慢死.md): tabaco y alcohol, ejercicio, sueño, alimentación y sedentarismo. Criterio: mortalidad por todas las causas o por una causa específica.
 3. [No desperdicies energía](book/03-不要浪费精力.md): sueño, interrupciones, multitarea, fatiga de decisión y deudas interpersonales. Criterio: energía y tiempo.
 4. [No desperdicies tiempo](book/04-不要浪费时间.md): proyectos sin beneficio, costos hundidos, procrastinación, reuniones y viajes diarios. Criterio: tiempo.
