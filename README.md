@@ -24,7 +24,7 @@ Cubre longevidad y prevención de enfermedades, accidentes y primeros auxilios, 
 | Pregunta | Dónde buscar |
 | --- | --- |
 | ¿Qué cosas, con un costo casi nulo, reducen de forma apreciable la probabilidad de morir antes de tiempo? | [1. No mueras antes de tiempo](book/01-no-mueras-antes-de-tiempo.md) |
-| ¿Cuánto acortan la vida fumar, beber, estar sentado y dormir poco? | [2. No mueras lentamente](book/02-不要慢慢死.md) |
+| ¿Cuánto acortan la vida fumar, beber, estar sentado y dormir poco? | [2. No mueras lentamente](book/02-no-mueras-lentamente.md) |
 | ¿Cómo cambio el hecho de no tener suficiente energía y sufrir interrupciones constantes? | [3. No desperdicies energía](book/03-no-desperdicies-energia.md) |
 | ¿En qué se va todo el tiempo y cómo hago menos cosas sin beneficio? | [4. No desperdicies tiempo](book/04-no-desperdicies-tiempo.md) |
 | ¿Cómo guardo el dinero para que no se lo coman los intereses, las comisiones y las estafas? | [5. No desperdicies dinero](book/05-不要浪费钱.md) |
@@ -176,7 +176,7 @@ El texto intenta hablar en lenguaje cotidiano, pero al citar investigaciones apa
 ## Índice
 
 1. [No mueras antes de tiempo](book/01-no-mueras-antes-de-tiempo.md): muertes por causas externas, gas y envenenamiento, vacunas, cribados, crisis psicológicas, equipamiento de emergencia doméstica y señales que requieren consulta, como sangre visible en la orina. Criterio: mortalidad por todas las causas o por una causa específica.
-2. [No mueras lentamente](book/02-不要慢慢死.md): tabaco y alcohol, ejercicio, sueño, alimentación y sedentarismo. Criterio: mortalidad por todas las causas o por una causa específica.
+2. [No mueras lentamente](book/02-no-mueras-lentamente.md): tabaco y alcohol, ejercicio, sueño, alimentación y sedentarismo. Criterio: mortalidad por todas las causas o por una causa específica.
 3. [No desperdicies energía](book/03-no-desperdicies-energia.md): sueño, interrupciones, multitarea, fatiga de decisión y deudas interpersonales. Criterio: energía y tiempo.
 4. [No desperdicies tiempo](book/04-no-desperdicies-tiempo.md): proyectos sin beneficio, costos hundidos, procrastinación, reuniones y viajes diarios. Criterio: tiempo.
 5. [No desperdicies dinero](book/05-不要浪费钱.md): suscripciones, lotería, intereses, seguros, comisiones de fondos, pensión personal, seguro del auto, pagos anticipados, ventas en transmisiones en vivo, cuenta individual del seguro médico, estafas y reembolsos por compras de los hijos. Criterio: dinero.
